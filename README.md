@@ -1,4 +1,4 @@
-# IMG2ASCII
+zd# IMG2ASCII
 在线将gif图片转换为字符动态图
 
 使用idea开发
